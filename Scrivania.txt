@@ -1,3 +1,5 @@
 1. Inserisci immagine di riferimento.
 2. Inizio modellazione gamba
 3. Fine modellazione gamba
+4. Copia gambe
+5. Inizio ripiano
